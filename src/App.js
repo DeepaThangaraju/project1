@@ -110,7 +110,7 @@ function Display({
         <TextField
           id="outlined-disabled"
           value={Gender}
-          label="Qualification"
+          label="Gender"
           variant="outlined"
           style={sty}
         />
