@@ -11,9 +11,9 @@ img {
 .display {
   display: block;
   /* background-image: url("https://static4.depositphotos.com/1008265/313/i/450/depositphotos_3130662-stock-photo-nice-background.jpg"); */
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: cover; */
   text-align: center;
   align-items: center;
   border: 0px solid black;
